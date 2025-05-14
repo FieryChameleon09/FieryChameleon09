@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @FieryChameleon09
 - 👀 I’m interested in automation processes
 - 🌱 I’m currently learning Cypress
-- ⚡ Fun fact: I have a comp sci degree and Im not a dev xD
+- ⚡ Fun fact: I have a Comp Sci Degree and Im not a dev xD
